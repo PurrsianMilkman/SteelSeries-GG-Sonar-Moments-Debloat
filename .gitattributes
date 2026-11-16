@@ -1,0 +1,2 @@
+# the shipped batch file must be stored byte-for-byte (CRLF, ASCII): its SHA-256 is published in the release
+*.bat -text

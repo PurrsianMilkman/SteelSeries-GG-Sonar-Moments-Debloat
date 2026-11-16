@@ -1,0 +1,9 @@
+# never commit SteelSeries files, backups, logs or builds of their software
+*.asar
+*.exe
+*.dll
+*.db
+*.log
+backup/
+__pycache__/
+*.pyc
