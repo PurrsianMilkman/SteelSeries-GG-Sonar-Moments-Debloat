@@ -1,4 +1,19 @@
-# SteelSeries GG 123.0.0: Sonar + Moments only
+# Steelseries debloater
+
+This patch disabled everything but the mixer and moments. Account requirment and telemetry is removed.
+
+## Easy install (one file)
+
+To install and use:
+
+1. Download the original installer from the Internet Archive: https://archive.org/details/steel-series-gg-123.0.0-setup (`SteelSeriesGG123.0.0Setup.exe`)
+2. Download the patch: https://github.com/PurrsianMilkman/SteelSeries-GG-Sonar-Moments-Debloat/releases/download/v1.0.0/GG-Debloat-123.bat
+3. Put both the installer and the bat file in the same folder and run the bat file (click **Yes** on the administrator prompt). It installs and patches GG for you.
+4. Start GG from the Start menu. Sonar and Moments work without signing in.
+
+Your support is greatly appreciated. Nothing is paywalled: https://www.patreon.com/cw/Purrsian
+
+## Details
 
 A one-file patch that turns **SteelSeries GG 123.0.0** into just the two parts many people actually want, the **Sonar mixer** and **Moments**, with:
 
@@ -9,12 +24,9 @@ A one-file patch that turns **SteelSeries GG 123.0.0** into just the two parts m
 
 > Unofficial. Not affiliated with, endorsed by, or supported by SteelSeries. This repository contains **no SteelSeries files**: it works on your own copy of the official installer. Use at your own risk.
 
-## How to use it
+## More about using it
 
-1. Get the official installer **`SteelSeriesGG123.0.0Setup.exe`** (SHA-256 `E8846A8793B707E2829702112FE47314ED3DD2433AB80DC42099E33B68288BCC`, 413.6 MB, signed by GN Hearing A/S). SteelSeries may stop offering older versions, so keep a copy; any copy works as long as its SHA-256 matches.
-2. Download **`GG-Debloat-123.bat`** from the [latest release](../../releases/latest) and put it **in the same folder as the installer**.
-3. Double-click `GG-Debloat-123.bat` and click **Yes** on the Windows administrator prompt.
-4. Start GG from the Start menu (not from the patch window). Sonar and Moments work without signing in.
+The installer is **`SteelSeriesGG123.0.0Setup.exe`** (SHA-256 `E8846A8793B707E2829702112FE47314ED3DD2433AB80DC42099E33B68288BCC`, 413.6 MB, signed by GN Hearing A/S). Any copy works as long as its SHA-256 matches. Start GG from the Start menu, not from the patch window.
 
 The patch installs GG 123.0.0 for you if it isn't installed yet. If it is already installed, the installer file isn't needed.
 
